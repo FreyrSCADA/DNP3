@@ -1,0 +1,33 @@
+DNP3 Outstation Server Simulator
+Simulate DNP3 Outstation/ server. using serial, tcp, udp communication
+Brought to you by: freyrscada2016
+
+We can add up to 50 server node in the simulator. Every server node will work independently. 
+Simulator window shows the status & connection port number. 
+The user can update the monitoring Point information.
+Binary Input, Double-bit Binary Input, Binary Output, Counter Input, Analog Input, Analog output, Octect String, virtual terminal String.
+
+support CROB, analog output command
+
+Interoperability :
+http://freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
+
+Get a free DNP3 (IEEE 1815) Development Bundle
+
+FreyrSCADA DNP3 (IEEE 1815) Development Bundle v21.04.001
+
+In the Development Bundle, We included DNP3 (IEEE 1815) Server & Client Simulator, Windows & Linux SDK.
+
+http://freyrscada.com/dnp3-ieee-1815.php
+
+Video Tutorial
+https://www.youtube.com/watch?v=fWp8nSEc5BI&list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
+
+Features
+Multiple Server Simulation
+Supports Serial, TCP, UDP Communication
+Level 3 Compliance
+Supports unsolicited response, Octect String, Virtual Terminal Output
+Supports "select-before-operate" or "direct-execute" command execution modes
+Supports, frozen counter input, frozen analog input typeids,
+Supports File Transfer, Directory commands
