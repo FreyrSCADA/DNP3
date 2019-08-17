@@ -1,8 +1,8 @@
 DNP3 Client Master Simulator
-Simulate DNP3 Client / Master. using serial, TCP, UDP communication
-Brought to you by: freyrscada
 
-We can add up to 50 Client node in the simulator. Every Client node will work independently. 
+Simulate Complete DNP3 Client / Master. using Serial, TCP/IP, UDP communication
+
+Add up to 50 Client node in the simulator. Every Client node will work independently. 
 Simulator window shows the Connection status & Connected Serial port number tcp, udp ip and port number. 
 
 Interoperability:
@@ -10,26 +10,39 @@ http://freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
 
 Binary Input, Double-bit Binary Input, Binary Output, Counter Input, Analog Input, Analog output, Octect String, virtual terminal String.
 
-support CROB, analog output command.
+support CROB, analog output command with "select-before-operate" or "direct-execute" command execution modes
+
+Industry proven, tested with all leading test tools
 
 Interoperability :
-http://freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
+http://www.freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
 
 Get a free DNP3 (IEEE 1815) Development Bundle
 
-FreyrSCADA DNP3 (IEEE 1815) Development Bundle v21.04.001
-
 In the Development Bundle, We included DNP3 (IEEE 1815) Server & Client Simulator, Windows & Linux SDK.
 
-http://freyrscada.com/dnp3-ieee-1815.php
+http://www.freyrscada.com/dnp3-ieee-1815.php
 
 Video Tutorial
 https://www.youtube.com/watch?v=fWp8nSEc5BI&list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
 
 Features
-Multiple Master / Client Simulation
-Supports Serial, TCP, UDP Communication
-Level 3 Compliance
-Supports "Select-Before-Operate" SBO or "Direct-execute" command execution modes
-supports File Transfer, Directory commands
-Supports, frozen counter input, frozen analog input Groups
+	*	Multiple Master / Client Simulation
+	*	Supports Serial, TCP, UDP Communication
+	*	Level 3 Compliance
+	*	Supports "Select-Before-Operate" SBO or "Direct-execute" command execution modes
+	*	Supports, frozen counter input, frozen analog input Groups	
+	*	Support File Transfer(File read, file write), Directory commands
+	* 	support Device Attributes
+	
+	
+http://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php
+
+http://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php
+
+http://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php
+
+http://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html	
+
