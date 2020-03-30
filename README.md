@@ -63,12 +63,21 @@ Features
     Supports frozen counter input, frozen analog input Groups
 
 facebook -- https://www.facebook.com/DNP3Protocol
+
 twitter -- https://twitter.com/FreyrScada      
+
 linkedin -- https://in.linkedin.com/showcase/dnp3    
+
 youtube -- https://www.youtube.com/playlist?list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
+
 vimeo -- https://vimeo.com/freyrscada
+
 pinterest -- https://in.pinterest.com/FreyrSCADA/dnp3-protocol/
+
 tumblr -- https://freyrscada.tumblr.com
+
 blog -- https://dnp-protocol.blogspot.in/
+
 telegram -- https://t.me/s/dnp3_protocol
+
 instagram -- https://www.instagram.com/explore/tags/dnp3_protocol/
