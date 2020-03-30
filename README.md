@@ -21,21 +21,21 @@ support CROB, analog output command with "select-before-operate" or "direct-exec
 Industry proven, tested with all leading test tools
 
 
-Get a free DNP3 (IEEE 1815) Development Bundle
+Get a free DNP3 Protocol Development Bundle
 
 In the Development Bundle, We included DNP3 (IEEE 1815) Server & Client Simulator, Windows & Linux SDK.
 
-http://www.freyrscada.com/dnp3-ieee-1815.php
+https://www.freyrscada.com/dnp3-ieee-1815.php
 
-http://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php
+https://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php
 
-http://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php
+https://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php
 
-http://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php
+https://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php
 
-http://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php
+https://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php
 
-http://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html
+https://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html
 
 
 Video Tutorial
@@ -62,3 +62,13 @@ Features
     device attributes support
     Supports frozen counter input, frozen analog input Groups
 
+facebook -- https://www.facebook.com/DNP3Protocol
+twitter -- https://twitter.com/FreyrScada      
+linkedin -- https://in.linkedin.com/showcase/dnp3    
+youtube -- https://www.youtube.com/playlist?list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
+vimeo -- https://vimeo.com/freyrscada
+pinterest -- https://in.pinterest.com/FreyrSCADA/dnp3-protocol/
+tumblr -- https://freyrscada.tumblr.com
+blog -- https://dnp-protocol.blogspot.in/
+telegram -- https://t.me/s/dnp3_protocol
+instagram -- https://www.instagram.com/explore/tags/dnp3_protocol/
