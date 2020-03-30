@@ -1,4 +1,4 @@
-DNP3 Client Master Simulator
+DNP3 Protocol Client Master Simulator
 
 Simulate Complete DNP3 Client / Master. using Serial, TCP/IP, UDP communication
 
@@ -6,7 +6,7 @@ Add up to 50 Client node in the simulator. Every Client node will work independe
 Simulator window shows the Connection status & Connected Serial port number tcp, udp ip and port number. 
 
 Interoperability:
-http://freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
+https://freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
 
 Binary Input, Double-bit Binary Input, Binary Output, Counter Input, Analog Input, Analog output, Octect String, virtual terminal String.
 
@@ -15,13 +15,13 @@ support CROB, analog output command with "select-before-operate" or "direct-exec
 Industry proven, tested with all leading test tools
 
 Interoperability :
-http://www.freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
+https://www.freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf
 
 Get a free DNP3 (IEEE 1815) Development Bundle
 
 In the Development Bundle, We included DNP3 (IEEE 1815) Server & Client Simulator, Windows & Linux SDK.
 
-http://www.freyrscada.com/dnp3-ieee-1815.php
+https://www.freyrscada.com/dnp3-ieee-1815.php
 
 Video Tutorial
 https://www.youtube.com/watch?v=fWp8nSEc5BI&list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
@@ -36,13 +36,33 @@ Features
 	* 	support Device Attributes
 	
 	
-http://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php
+https://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php
 
-http://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php
+https://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php
 
-http://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php
+https://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php
 
-http://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php
+https://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php
 
-http://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html	
+https://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html	
 
+
+facebook -- https://www.facebook.com/DNP3Protocol
+
+twitter -- https://twitter.com/FreyrScada      
+
+linkedin -- https://in.linkedin.com/showcase/dnp3    
+
+youtube -- https://www.youtube.com/playlist?list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
+
+vimeo -- https://vimeo.com/freyrscada
+
+pinterest -- https://in.pinterest.com/FreyrSCADA/dnp3-protocol/
+
+tumblr -- https://freyrscada.tumblr.com
+
+blog -- https://dnp-protocol.blogspot.in/
+
+telegram -- https://t.me/s/dnp3_protocol
+
+instagram -- https://www.instagram.com/explore/tags/dnp3_protocol/
