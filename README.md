@@ -39,7 +39,7 @@ https://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html
 
 
 Video Tutorial
-https://www.youtube.com/watch?v=fWp8nSEc5BI&list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
+https://www.youtube.com/playlist?list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
 
 
 
