@@ -1,16 +1,5 @@
 # DNP3
 DNP3 Protocol - (Outstation) Server Simulator, Client (Master) Simulator, Windows and Linux (ARM) -C, C++, C# .NET Programming - 
-Complete Implementation including file transfer
-
-DNP3 Protocol
-
-FreyrSCADA offering
-DNP3 RTU Outstation / Server Simulator,
-DNP3 Client Simulator,
-Static and Dynamic Libraries,
-DNP3 Source Code Library,
-Demo Kit (Raspberry Pi & BeagleBone Black) or Customer specific Hardware
-windows, Linux, QNX
 
 Complete implementation of DNP3 protocol standard including File transfer.
 
@@ -61,6 +50,18 @@ Features
     Industry Proven, tested with all leading test tools
     device attributes support
     Supports frozen counter input, frozen analog input Groups
+	
+	
+DNP3 Protocol
+
+FreyrSCADA offering
+DNP3 RTU Outstation / Server Simulator,
+DNP3 Client Simulator,
+Static and Dynamic Libraries,
+DNP3 Source Code Library,
+Demo Kit (Raspberry Pi & BeagleBone Black) or Customer specific Hardware
+windows, Linux, QNX
+
 
 facebook -- https://www.facebook.com/DNP3Protocol
 
