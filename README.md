@@ -19,11 +19,11 @@ Industry proven, tested with all leading test tools
 
 Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with dnp3.
 
-* [DNP3 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](#dnp3-source-code-windows-c-c-c-net-linux-arm-posix-c-c)
-* [DNP3 Protocol Outstation RTU IED Server Simulator](#dnp3-outstation-rtu-server-simulator)
+* [DNP3 Source Code Windows C C++ C# .net Linux Arm POSIX C C++](#dnp3-protocol-source-code-library---outstation-server-client-master---windows-linux---c-c-c-net)
+* [DNP3 Protocol Outstation RTU IED Server Simulator](#dnp3-outstation-rtu-ied-server-simulator)
 * [DNP3 Protocol Client Master Simulator](#dnp3-protocol-client-master-simulator)
-* [DNP3 Windows C C++ C# .NET Programming](#dnp3-windows-c-c-c-net-programming)
-* [DNP3 Protocol Linux Posix C C++ ARM](#dnp3-protocol-linux-development-posix-c-c-arm)
+* [DNP3 Windows C C++ C# .NET Programming](#dnp3-protocol---outstation-server-client-master---windows-software-development-kit---c-c-c-net-programming)
+* [DNP3 Protocol Linux Posix C C++ ARM](#dnp3-protocol---outstation-server-client-master---linux-software-development-kit---c-c---arm-coldfire-power-pc-ubuntu-linuxx86-x86-64-fedora-centos-red-hat)
 * [DNP3 Protocol Video](#dnp3-protocol-video-tutorial)
 
 
