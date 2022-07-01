@@ -1,4 +1,4 @@
-# [DNP3 Protocol](https://www.freyrscada.com/dnp3-ieee-1815.php)
+# [DNP3 Protocol](http://www.freyrscada.com/dnp3-ieee-1815.php)
 
 Distributed Network Protocol 3 ( DNP3 ) is a set of communications protocols used between components in process automation systems. Its main use is in utilities such as electric and water companies. 
 
@@ -15,7 +15,7 @@ support CROB, analog output command with "select-before-operate" or "direct-exec
 Industry proven, tested with all leading test tools
 
 
-[![DNP3 Protocol](./img/dnpw320x220.jpg)](https://www.freyrscada.com/dnp3-ieee-1815.php)
+[![DNP3 Protocol](./img/dnpw320x220.jpg)](http://www.freyrscada.com/dnp3-ieee-1815.php)
 
 Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible with dnp3.
 
@@ -29,12 +29,12 @@ Make your RTU, protocol converter, Gateway, HMI, Data concentrator compatible wi
 
 
 
-# [Download Evaluation Kit - DNP3 Protocol Development Bundle](https://www.freyrscada.com/dnp3-ieee-1815.php#Download-DNP3-Development-Bundle)
+# [Download Evaluation Kit - DNP3 Protocol Development Bundle](http://www.freyrscada.com/dnp3-ieee-1815.php#Download-DNP3-Development-Bundle)
 
 In the Development Bundle, We included DNP3 Outstation Server Simulator, Master Client Simulator, Windows ( C, C++, C# Programming ), Linux (POSIX C , C++) SDK, Source code available
 
 
-# [DNP3 Protocol Source Code Library - Outstation Server, Client Master - Windows, Linux - C, C++, C# .NET](https://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html)
+# [DNP3 Protocol Source Code Library - Outstation Server, Client Master - Windows, Linux - C, C++, C# .NET](http://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html)
 
 The most complete implementation of DNP3 protocol standard including File transfer.
 
@@ -50,7 +50,7 @@ Low memory footprint, easy start on any hardware platform, can operate with or w
 high configurability allows to use required features only, royalty-free licensing.
 
 
-[![DNP3 Code Windows C C++ C# .net Linux Arm POSIX](./img/dnp3-source-code-library-stack.jpg)](https://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html)
+[![DNP3 Code Windows C C++ C# .net Linux Arm POSIX](./img/dnp3-source-code-library-stack.jpg)](http://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html)
 
 
 ## Salient Features
@@ -113,16 +113,16 @@ high configurability allows to use required features only, royalty-free licensin
 
 ## Knowledge Base - Interoperability
 
-[DNP3 Protocol Outstation Server Interoperability - Object and variation Support](https://www.freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf)
+[DNP3 Protocol Outstation Server Interoperability - Object and variation Support](http://www.freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf)
 
-[DNP3 protocol Client Interoperability Object and variation Support](https://www.freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf)
+[DNP3 protocol Client Interoperability Object and variation Support](http://www.freyrscada.com/docs/FreyrSCADA-DNP-Driver-Object-Variation-Support.pdf)
 
 
 
 ## Licensing
 
 
-### [Source Code License model:](https://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html#Licensing)
+### [Source Code License model:](http://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html#Licensing)
 
 In this License model, We deliver complete source code of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
 
@@ -130,7 +130,7 @@ Customer may embed the library into unlimited copies of Multiple end-use product
 
 
 
-### [Compiled Library License model:](https://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html#Licensing)
+### [Compiled Library License model:](http://www.freyrscada.com/dnp3-ieee-1815-Source-Code-Library.html#Licensing)
 
 
 In this License model, We deliver Dynamic/ Static compiled library (dll / lib) of the protocol implementation according to the customer specified operating system(Windows, Linux, QNX...).
@@ -139,7 +139,7 @@ Customer may embed the library into unlimited copies of Multiple end-use product
 
 
 
-# [DNP3 Outstation RTU IED Server Simulator](https://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php)
+# [DNP3 Outstation RTU IED Server Simulator](http://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php)
 
  Add up to 50 server node in the simulator. Every server node will work independently. 
 
@@ -147,7 +147,7 @@ Simulator window shows the status & connection port number.
 
 The user can update the monitoring Point information.The following parameters can change Value and quality bits. 
 
-[![DNP3 Outstation RTU IED Server Simulator](./img/dnpserversimlogo_thump.jpg)](https://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php)
+[![DNP3 Outstation RTU IED Server Simulator](./img/dnpserversimlogo_thump.jpg)](http://www.freyrscada.com/dnp3-ieee-1815-Server-Simulator.php)
 
 
 ## Features
@@ -183,7 +183,7 @@ The user can update the monitoring Point information.The following parameters ca
  - Time Clock Syncronization
 
  
-[DNP3 Protocol Outstation RTU Server Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-DNP-Server-Simulator-User-Manual.pdf)
+[DNP3 Protocol Outstation RTU Server Simulator User Manual](http://www.freyrscada.com/docs/FreyrSCADA-DNP-Server-Simulator-User-Manual.pdf)
  
 
 ## Simulator License model:
@@ -202,7 +202,7 @@ The Customer can use the software company wide. Customer can install the softwar
 For Unlimited year license, after a year, you will have the option to renew the Maintenance Plan to continue receiving technical support and upgrades.  The renewal price after a year is 10% of the product list price at the time of renewal (optional). Without renew the AMC also the software works. But for technical support and upgrades, the customer has an option for AMC.
  
  
-# [DNP3 Protocol Client Master Simulator](https://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php)
+# [DNP3 Protocol Client Master Simulator](http://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php)
  
 Simulate Complete DNP3 Client / Master. using Serial, TCP/IP, UDP communication
 
@@ -214,7 +214,7 @@ support CROB, analog output command with "select-before-operate" or "direct-exec
 
 Industry proven, tested with all leading test tools
 
-[![DNP3 Client Master Simulator](./img/dnpclientsimlogo_thump.jpg)](https://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php)
+[![DNP3 Client Master Simulator](./img/dnpclientsimlogo_thump.jpg)](http://www.freyrscada.com/dnp3-ieee-1815-Client-Simulator.php)
 
 
 ## Features
@@ -241,7 +241,7 @@ Industry proven, tested with all leading test tools
 
  - Time Clock Syncronization
  
-[DNP3 Protocol Client Master Simulator User Manual](https://www.freyrscada.com/docs/FreyrSCADA-DNP-Client-Simulator-User-Manual.pdf)
+[DNP3 Protocol Client Master Simulator User Manual](http://www.freyrscada.com/docs/FreyrSCADA-DNP-Client-Simulator-User-Manual.pdf)
  
 
 ## Simulator License model:
@@ -261,7 +261,7 @@ For Unlimited year license, after a year, you will have the option to renew the 
 
 
 
-# [DNP3 Protocol - Outstation Server, Client Master - Windows Software Development Kit - C C++ C# .NET Programming](https://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php)
+# [DNP3 Protocol - Outstation Server, Client Master - Windows Software Development Kit - C C++ C# .NET Programming](http://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php)
 
 DNP3 Demo Win DLL includes simple (Server & Client C programs )example using a Command window and command line inputs.
 
@@ -271,7 +271,7 @@ FreyrSCADA DNP3 Windows SDK contains Win DLL (precompiled library), Static link 
 
 We used Visual studio compiler to create the dll, sample test projects.
 
-[![DNP3 Protocol - Outstation Server, Client Master - Windows Software Development Kit - C C++ C# .NET Programming](./img/dnpw320x220_win_sdk.jpg)](https://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php)
+[![DNP3 Protocol - Outstation Server, Client Master - Windows Software Development Kit - C C++ C# .NET Programming](./img/dnpw320x220_win_sdk.jpg)](http://www.freyrscada.com/DNP3(IEEE-1815)-Windows-Software-Development-Kit(SDK).php)
 
 
 This evaluation package allows you to:
@@ -290,7 +290,7 @@ You can use the source code of the application examples and modify them accordin
 
 
 
-# [DNP3 Protocol - Outstation Server, Client Master - Linux Software Development Kit - C, C++ - (ARM, Coldfire, Power PC), Ubuntu Linux(X86, X86-64), Fedora, CentOS, Red Hat](https://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php)
+# [DNP3 Protocol - Outstation Server, Client Master - Linux Software Development Kit - C, C++ - (ARM, Coldfire, Power PC), Ubuntu Linux(X86, X86-64), Fedora, CentOS, Red Hat](http://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php)
 
 
 DNP3 Demo Linux Shared Library includes simple (Server & Client C programs )example using a Command window and command line inputs.
@@ -301,7 +301,7 @@ FreyrSCADA DNP3 Linux SDK contains Shared Library(.a) (precompiled library), Sta
 
 We used gcc compiler to create the Shared Library, sample test projects.
 
-[![DNP3 Protocol - Outstation Server, Client Master - Linux Software Development Kit - C, C++](./img/dnpw320x220_linux_sdk.jpg)](https://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php)
+[![DNP3 Protocol - Outstation Server, Client Master - Linux Software Development Kit - C, C++](./img/dnpw320x220_linux_sdk.jpg)](http://www.freyrscada.com/DNP3(IEEE-1815)-Linux-Software-Development-Kit(SDK).php)
 
 
 This evaluation package allows you to:
@@ -326,44 +326,44 @@ gcc - Any IDE supports C & C++ Programming
 
 # [DNP3 Protocol Video Tutorial](https://www.youtube.com/playlist?list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj)
 
-## [DNP3 Protocol - Product Description](https://www.freyrscada.com/dnp3-ieee-1815-video.html)	
-[![DNP3 Protocol - Product Description](https://www.freyrscada.com/images/dnp3videoicon.jpg)](https://www.freyrscada.com/dnp3-ieee-1815-video.html)
+## [DNP3 Protocol - Product Description](http://www.freyrscada.com/dnp3-ieee-1815-video.html)	
+[![DNP3 Protocol - Product Description](http://www.freyrscada.com/images/dnp3videoicon.jpg)](http://www.freyrscada.com/dnp3-ieee-1815-video.html)
 
 
-## [DNP3 Protocol Outstation Simulator with Citect HMI SCADA](https://www.freyrscada.com/DNP3-Outstation-simulator-with-Citect-HMI-video.html)	
-[![DNP3 Outstation Simulator with Citect HMI SCADA](https://www.freyrscada.com/images/citectscadalogo.jpg)](https://www.freyrscada.com/DNP3-Outstation-simulator-with-Citect-HMI-video.html)
+## [DNP3 Protocol Outstation Simulator with Citect HMI SCADA](http://www.freyrscada.com/DNP3-Outstation-simulator-with-Citect-HMI-video.html)	
+[![DNP3 Outstation Simulator with Citect HMI SCADA](http://www.freyrscada.com/images/citectscadalogo.jpg)](http://www.freyrscada.com/DNP3-Outstation-simulator-with-Citect-HMI-video.html)
 
 
-## [DNP3 Protocol Outstation and Client Simulator - File transfer, Directory Read, Device Attribute](https://www.freyrscada.com/DNP3-Server-Client-Simulator-video-FileTransfer.html)	
-[![DNP3 Outstation and Client Simulator - File transfer, Directory Read, Device Attribute](https://www.freyrscada.com/images/DNP3-Server-Client-Simulator-video-FileTransfer.jpg)](https://www.freyrscada.com/DNP3-Server-Client-Simulator-video-FileTransfer.html)
+## [DNP3 Protocol Outstation and Client Simulator - File transfer, Directory Read, Device Attribute](http://www.freyrscada.com/DNP3-Server-Client-Simulator-video-FileTransfer.html)	
+[![DNP3 Outstation and Client Simulator - File transfer, Directory Read, Device Attribute](http://www.freyrscada.com/images/DNP3-Server-Client-Simulator-video-FileTransfer.jpg)](http://www.freyrscada.com/DNP3-Server-Client-Simulator-video-FileTransfer.html)
 
 
-## [DNP3 Protocol Master Client Simulator with Third Party test tool File transfer, Directory Read, Device Attribute](https://www.freyrscada.com/DNP3_Client_Simulator_Testing-With-FileTransfer.html)	
-[![DNP3 Protocol Master Client Simulator with Third Party test tool File transfer, Directory Read, Device Attribute](https://www.freyrscada.com/images/DNP3_Client_Simulator_Testing-With-FileTransfer.jpg)](https://www.freyrscada.com/DNP3_Client_Simulator_Testing-With-FileTransfer.html)
+## [DNP3 Protocol Master Client Simulator with Third Party test tool File transfer, Directory Read, Device Attribute](http://www.freyrscada.com/DNP3_Client_Simulator_Testing-With-FileTransfer.html)	
+[![DNP3 Protocol Master Client Simulator with Third Party test tool File transfer, Directory Read, Device Attribute](http://www.freyrscada.com/images/DNP3_Client_Simulator_Testing-With-FileTransfer.jpg)](http://www.freyrscada.com/DNP3_Client_Simulator_Testing-With-FileTransfer.html)
 
 
-## [DNP3 Protocol Outstation(Server) Simulator with Third Party test tool File transfer, Directory Read,Device Attribute](https://www.freyrscada.com/DNP3_Server_Simulator_Testing-FileTransfer.html)	
-[![DNP3 Outstation(Server) Simulator with Third Party test tool File transfer, Directory Read,Device Attribute](https://www.freyrscada.com/images/DNP3_Server_Simulator_Testing-FileTransfer.jpg)](https://www.freyrscada.com/DNP3_Server_Simulator_Testing-FileTransfer.html)
+## [DNP3 Protocol Outstation(Server) Simulator with Third Party test tool File transfer, Directory Read,Device Attribute](http://www.freyrscada.com/DNP3_Server_Simulator_Testing-FileTransfer.html)	
+[![DNP3 Outstation(Server) Simulator with Third Party test tool File transfer, Directory Read,Device Attribute](http://www.freyrscada.com/images/DNP3_Server_Simulator_Testing-FileTransfer.jpg)](http://www.freyrscada.com/DNP3_Server_Simulator_Testing-FileTransfer.html)
 
 
-## [DNP3 Protocol Outstation / Server Simulator test with Kepware OPC](https://www.freyrscada.com/DNP3_Outstation_Simulator_Kepware_OPC.html)	
-[![DNP3 Outstation / Server Simulator test with Kepware OPC](https://www.freyrscada.com/images/DNP3_Outstation_Simulator_Kepware_OPC.jpg)](https://www.freyrscada.com/DNP3_Outstation_Simulator_Kepware_OPC.html)
+## [DNP3 Protocol Outstation / Server Simulator test with Kepware OPC](http://www.freyrscada.com/DNP3_Outstation_Simulator_Kepware_OPC.html)	
+[![DNP3 Outstation / Server Simulator test with Kepware OPC](http://www.freyrscada.com/images/DNP3_Outstation_Simulator_Kepware_OPC.jpg)](http://www.freyrscada.com/DNP3_Outstation_Simulator_Kepware_OPC.html)
 
 
-## [DNP3 Protocol Outstation / Server Simulator Conformance testing with Third Party Test Tool](https://www.freyrscada.com/DNP3-Server-Simulator-testing-automatak-video.html)	
-[![DNP3 Outstation / Server Simulator Conformance testing with Third Party Test Tool](https://www.freyrscada.com/images/dnp3-simulator-automatak.jpg)](https://www.freyrscada.com/DNP3-Server-Simulator-testing-automatak-video.html)
+## [DNP3 Protocol Outstation / Server Simulator Conformance testing with Third Party Test Tool](http://www.freyrscada.com/DNP3-Server-Simulator-testing-automatak-video.html)	
+[![DNP3 Outstation / Server Simulator Conformance testing with Third Party Test Tool](http://www.freyrscada.com/images/dnp3-simulator-automatak.jpg)](http://www.freyrscada.com/DNP3-Server-Simulator-testing-automatak-video.html)
 
 
-## [DNP3 Protocol Outstation (Server) in Beaglebone Arm Linux](https://www.freyrscada.com/DNP3-Outstation-Server-in-Beaglebone-arm-Debian-Linux.html)	
-[![DNP3 Outstation (Server) in Beaglebone Arm Linux](https://www.freyrscada.com/images/DNP3-Outstation-Server-in-Beaglebone-arm-Debian-Linux.jpg)](https://www.freyrscada.com/DNP3-Outstation-Server-in-Beaglebone-arm-Debian-Linux.html)
+## [DNP3 Protocol Outstation (Server) in Beaglebone Arm Linux](http://www.freyrscada.com/DNP3-Outstation-Server-in-Beaglebone-arm-Debian-Linux.html)	
+[![DNP3 Outstation (Server) in Beaglebone Arm Linux](http://www.freyrscada.com/images/DNP3-Outstation-Server-in-Beaglebone-arm-Debian-Linux.jpg)](http://www.freyrscada.com/DNP3-Outstation-Server-in-Beaglebone-arm-Debian-Linux.html)
 
 
-## [DNP3 Protocol Outstation (Server) Simulator with Ignition SCADA HMI](https://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-Ignition-SCADA-HMI-Inductive-Automation.html)	
-[![DNP3 Outstation (Server) Simulator with Ignition SCADA HMI](https://www.freyrscada.com/images/DNP3-Outstation-Server-Simulator-with-Ignition-SCADA-HMI-Inductive-Automation.jpg)](https://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-Ignition-SCADA-HMI-Inductive-Automation.html)
+## [DNP3 Protocol Outstation (Server) Simulator with Ignition SCADA HMI](http://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-Ignition-SCADA-HMI-Inductive-Automation.html)	
+[![DNP3 Outstation (Server) Simulator with Ignition SCADA HMI](http://www.freyrscada.com/images/DNP3-Outstation-Server-Simulator-with-Ignition-SCADA-HMI-Inductive-Automation.jpg)](http://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-Ignition-SCADA-HMI-Inductive-Automation.html)
 
 
-## [DNP3 Protocol RTU Outstation Server Simulator with GE Catapult DNP3 Client Driver](https://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-ge-catapult-ifix-driver.html)	
-[![DNP3 RTU Outstation Server Simulator with GE Catapult DNP3 Client Driver](https://www.freyrscada.com/images/DNP3-Outstation-Server-Simulator-with-ge-catapult-ifix-driver.jpg)](https://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-ge-catapult-ifix-driver.html)
+## [DNP3 Protocol RTU Outstation Server Simulator with GE Catapult DNP3 Client Driver](http://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-ge-catapult-ifix-driver.html)	
+[![DNP3 RTU Outstation Server Simulator with GE Catapult DNP3 Client Driver](http://www.freyrscada.com/images/DNP3-Outstation-Server-Simulator-with-ge-catapult-ifix-driver.jpg)](http://www.freyrscada.com/DNP3-Outstation-Server-Simulator-with-ge-catapult-ifix-driver.html)
 
 
 ## [DNP3 Protocol Outstation RTU IED Simulator with VTScada HMI](http://www.freyrscada.com/DNP3-Server-Simulator-With-VTScada.html)	
@@ -386,7 +386,7 @@ gcc - Any IDE supports C & C++ Programming
 [![ClearSCADA DNP3 Protocol - Download upload file transfer device attributes dnp3 server simulator](http://www.freyrscada.com/images/clearscada-dnp3-file-transfer.jpg)](http://www.freyrscada.com/DNP3-Outstation-Simulator-ClearSCADA-Filetransfer.html)
 
 	
-# [Download Evaluation Kit - DNP3 Protocol Development Bundle](https://www.freyrscada.com/dnp3-ieee-1815.php#Download-DNP3-Development-Bundle)
+# [Download Evaluation Kit - DNP3 Protocol Development Bundle](http://www.freyrscada.com/dnp3-ieee-1815.php#Download-DNP3-Development-Bundle)
 
 In the Development Bundle, We included DNP3 Outstation Server Simulator, Master Client Simulator, Windows ( C, C++, C# Programming ), Linux (POSIX C , C++) SDK, Source code available
 
