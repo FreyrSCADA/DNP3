@@ -1,10 +1,10 @@
-# [DNP3 Protocol](https://www.freyrscada.com/dnp3-python.php)
+# [DNP3 Protocol Python](https://www.freyrscada.com/dnp3-python.php)
 
 The DNP3 Protocol Outstation Server and Master Client implemetation in Phyton.
 
-we did a python wrapper for our DNP3 implementation using ctypes.
+[![DNP3 Protocol Python](https://www.freyrscada.com/images/dnp3-python.jpg)](http://www.freyrscada.com/dnp3-python.php)
 
-and tested in Windows and linux x86_64.
+we did a python wrapper for our DNP3 implementation using ctypes , and tested in Windows and linux x86_64.
 
 in the package tests folder , you can find the server and client test programs.
 
