@@ -37,7 +37,7 @@
  snowballstemmer==2.2.0
      # via sphinx
  Sphinx>=5,<6
- myst_parser>=0.18,<0.19
+ myst_parser
      # via
      #   -r docs/requirements.in
      #   sphinx-rtd-theme
