@@ -1,1 +1,10 @@
 myst_parser
+
+
+ extensions = [
+        'sphinx.ext.autodoc',
+        'sphinx.ext.napoleon',  # If using Napoleon
+        'sphinx_rtd_theme',
+        'sphinx_autoapi.extension',
+'myst_parser',
+    ]
