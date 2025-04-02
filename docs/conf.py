@@ -4,7 +4,6 @@ extensions = [
     'sphinx.ext.todo',
 #    'recommonmark',
     'sphinx.ext.autosectionlabel',
-    'sphinx_markdown_tables',
     'myst_parser',
 ]
 
