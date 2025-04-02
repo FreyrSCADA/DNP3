@@ -1,10 +1,14 @@
 
 extensions = [
-    'sphinx.ext.autodoc',
-    'sphinx.ext.todo',
-#    'recommonmark',
-    'sphinx.ext.autosectionlabel',
-    'myst_parser',
+    "myst_parser",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.intersphinx",
+    "sphinx.ext.viewcode",
+    "sphinxcontrib.bibtex",
+#    "sphinx_panels",
+    "sphinxext.rediraffe",
+    "sphinxcontrib.mermaid",
+    "sphinxext.opengraph",
 ]
 
 source_suffix = ['.rst', '.md']
