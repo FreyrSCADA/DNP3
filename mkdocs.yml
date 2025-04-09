@@ -1,7 +1,7 @@
 site_name: DNP3 Protocol
 site_description: DNP3 protocol simulator, windows linux sdk
 
-site_url: /dnp3-protocol.readthedocs.io/
+site_url: https://dnp3-protocol.readthedocs.io/
 use_directory_urls: false
 docs_dir: 'mkdoc'
 
