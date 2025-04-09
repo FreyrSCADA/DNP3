@@ -1,0 +1,85 @@
+site_name: DNP3 Protocol
+site_description: DNP3 protocol simulator, windows linux sdk
+
+site_url: https://teaddoctest.readthedocs.io/
+use_directory_urls: false
+docs_dir: 'mkdoc'
+
+
+nav:
+  - Home: index.md
+  - Simulator:
+      - DNP3 Server Simulator: dnp3-server-simulator.md
+      - DNP3 Client Simulator: dnp3-client-simulator.md
+  - Programming:
+      - DNP3 Windows SDK : dnp3-windows-sdk-programming.md
+      - DNP3 Linux SDK : dnp3-linux-sdk-programming.md
+      - DNP3 Python SDK : dnp3-python-programming.md
+      - DNP3 .Net Core SDK : dnp3-netcore-programming.md
+  - Videos:
+      - DNP3 Simulator and Programming tutorial videos: dnp3-simulator-programming-tutorial-video.md
+theme:
+  name: material
+  logo: img/dnp3.svg
+  favicon: img/dnp3.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+
+plugins:
+  - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/playlist?list=PL4tVfIsUhy1abOTxSed3l56FQux5Bn_gj
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/FreyrScada
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/products/freyrscada-distributed-network-protocol-dnp-3-protocol-simulator-windows-linux-code-library/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/DNP3Protocol           
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/explore/tags/dnp3_protocol/
+    - icon: fontawesome/brands/behance
+      link: https://www.behance.net/freyrscada
+    - icon: fontawesome/brands/medium
+      link: https://freyrscada.medium.com/    
+    
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/FreyrSCADA"  target="_blank" rel="noopener">FreyrSCADA</a>
