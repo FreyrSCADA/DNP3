@@ -1,3 +1,14 @@
+'''
+/*****************************************************************************/
+/*! file       dnp3clienttest.py
+ *  brief      Python Source code file, DNP3 Protocol client Mater library test program
+ *             for testing PyPI package https://pypi.org/project/dnp3protocol/ install using - pip install dnp3protocol
+ *  par        FreyrSCADA Embedded Solution Pvt Ltd
+ *              Email   : tech.support@freyrscada.com  
+ */
+/*****************************************************************************/
+'''
+
 import ctypes 
 import time
 import struct
