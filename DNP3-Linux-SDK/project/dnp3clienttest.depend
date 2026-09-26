@@ -1,0 +1,507 @@
+# depslib dependency file v1.0
+1521344546 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/source/dnp3clientapitest.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"dnp3api.h"
+
+1520560762 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/dnp3api.h
+	"dnp3types.h"
+
+1520772316 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/dnp3types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1517219016 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062108 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/tgtdefines.h
+
+1517062108 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062108 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1517062108 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1517062108 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1502943240 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.001/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1527506860 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/source/dnp3clientapitest.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<conio.h>
+	<process.h>
+	"dnp3api.h"
+
+1527307405 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/dnp3api.h
+	"dnp3types.h"
+
+1527307411 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/dnp3types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1517219018 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/tgtdefines.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1502943242 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.003/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1530362645 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/source/dnp3clientapitest.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalinput.h>
+	"dnp3api.h"
+
+1530096414 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/terminalinput.h
+
+1530186091 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/dnp3api.h
+	"dnp3types.h"
+
+1527307411 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/dnp3types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1517219018 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/tgtdefines.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1502943242 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1530096414 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.004/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1530096416 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1530096416 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/terminalinput.h
+
+1530489544 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/source/dnp3clientapitest.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalinput.h>
+	"dnp3api.h"
+
+1532933444 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/dnp3api.h
+	"dnp3types.h"
+
+1532752675 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/dnp3types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1517219018 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/tgtdefines.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1517062110 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1502943242 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.008/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1530112616 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1530112616 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/terminalinput.h
+
+1530505744 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/source/dnp3clientapitest.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalinput.h>
+	"dnp3api.h"
+
+1534672462 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/dnp3api.h
+	"dnp3types.h"
+
+1532768875 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/dnp3types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1517235218 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1517078310 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/tgtdefines.h
+
+1517078310 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1517078310 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1517078310 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1517078310 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1502959442 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.010/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1530112616 source:/root/Desktop/dnp3/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1530112616 /root/Desktop/dnp3/LinuxSDK/x86_64/header/terminalinput.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.014/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346392 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.014/LinuxSDK/x86_64/header/terminalinput.h
+
+1581338776 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/source/dnp3clientapitest.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalinput.h>
+	"dnp3api.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/terminalinput.h
+
+1593335831 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/dnp3api.h
+	"dnp3types.h"
+
+1592627364 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/dnp3types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1574908986 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1542345814 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/tgtdefines.h
+
+1542345814 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1542345814 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1542345814 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1571975772 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1571975930 /media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/FS-DNP3-V21.04.028/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.05.010/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.010/LinuxSDK/x86_64/header/terminalinput.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/terminalinput.h
+
+1645802831 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/source/dnp3clientapitest.c
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/time.h>
+	<termios.h>
+	<fcntl.h>
+	<terminalinput.h>
+	"dnp3api.h"
+
+1645756519 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/dnp3api.h
+	"dnp3types.h"
+
+1645153436 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/dnp3types.h
+	<tgttypes.h>
+	<tgtincludes.h>
+	<tgtcommon.h>
+	<tgtserialtypes.h>
+
+1574908986 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/tgttypes.h
+	<stdio.h>
+	<string.h>
+	<limits.h>
+	<float.h>
+	<wchar.h>
+	<stdlib.h>
+	<stdint.h>
+	<pthread.h>
+	<semaphore.h>
+	<time.h>
+	<mqueue.h>
+	"tgtdefines.h"
+
+1542345814 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/tgtdefines.h
+
+1542345814 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/tgtincludes.h
+	"tgterrorcodes.h"
+	"tgterrorvalues.h"
+
+1542345814 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/tgterrorcodes.h
+
+1542345814 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/tgterrorvalues.h
+
+1571975772 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/tgtcommon.h
+	"tgttypes.h"
+
+1571975930 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.013/LinuxSDK/x86_64/header/tgtserialtypes.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.05.023/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.023/LinuxSDK/x86_64/header/terminalinput.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.05.025/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.025/LinuxSDK/x86_64/header/terminalinput.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.05.026/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.05.026/LinuxSDK/x86_64/header/terminalinput.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.06.001/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.06.001/LinuxSDK/x86_64/header/terminalinput.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.06.008/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.06.008/LinuxSDK/x86_64/header/terminalinput.h
+
+1542346392 source:/media/sf_kr/products/116DNP3/release/DNP3-V21.06.012/LinuxSDK/x86_64/source/terminalinput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<termios.h>
+	<unistd.h>
+	<errno.h>
+	"terminalinput.h"
+
+1542346018 /media/sf_kr/products/116DNP3/release/DNP3-V21.06.012/LinuxSDK/x86_64/header/terminalinput.h
+
