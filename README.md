@@ -94,23 +94,6 @@ high configurability allows to use required features only, royalty-free licensin
 
  - APIs are designed to be very easy to use and flexible
  
- 
- ## Application Examples
-
- - Integrate existing devices to a modern control system with a field proven product
-
- - Water management, solar plants
-
- - Feeder automation
-
- - Substation automation
-
- - Utility automation
-
- - Reclosers
-
- - Protection relays
- 
 
 ## Knowledge Base - Interoperability
 
@@ -259,6 +242,41 @@ A Perpetual License allows the customer to purchase a license to use the softwar
 In this License model, FreyrSCADA deliver Simulator Installer for Windows Operating System.
 The Customer can use the software company wide. Customer can install the software in many systems. There is no restriction like Hardware key (Dongle) and software key. 
 For Unlimited year license, after a year, you will have the option to renew the Maintenance Plan to continue receiving technical support and upgrades.  The renewal price after a year is 10% of the product list price at the time of renewal (optional). Without renew the AMC also the software works. But for technical support and upgrades, the customer has an option for AMC.
+
+# [DNP3 Protocol c# .net core Windows and Linux implementation](https://www.freyrscada.com/dnp3-netcore-windows-linux.php)
+ 
+ The DNP3 Protocol Outstation Server and Client Master implemetation in c# .net8 core.
+ 
+ [![DNP3 Protocol dotnetcore](https://raw.githubusercontent.com/FreyrSCADA/DNP3/refs/heads/master/img/dnp3-netcore.jpg)](https://www.freyrscada.com/dnp3-netcore-windows-linux.php)
+ 
+ we did a c# wrapper for our dnp3 implementation in .net core.
+ 
+ and tested in Windows and linux x86_64. (tcp ip and serial)
+ 
+ using this, you can simulate complete DNP3 Server device and client.
+ 
+ or
+ 
+ you can use nuget package [dnp3_protocol](https://www.nuget.org/packages/dnp3_protocol)
+ 
+
+# [DNP3 Protocol Python](https://www.freyrscada.com/dnp3-python.php)
+
+The DNP3 Protocol Outstation Server and Master Client implemetation in Phyton.
+
+[![DNP3 Protocol Python](https://github.com/FreyrSCADA/DNP3/raw/master/img/dnp3-python.jpg)](http://www.freyrscada.com/dnp3-python.php)
+
+we did a python wrapper for our DNP3 implementation using ctypes , and tested in Windows and linux x86_64.
+
+in the package tests folder , you can find the server and client test programs.
+
+using this, you can simulate complete dnp3 Server device(dnp3servertest.py) and client(dnp3clienttest.py).
+
+or
+
+PyPI page [https://pypi.org/project/dnp3protocol/](https://pypi.org/project/dnp3protocol/)
+
+install using - pip install dnp3protocol
 
 
 
